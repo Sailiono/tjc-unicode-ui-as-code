@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "encoding": "utf-8",
+  "object_name_limit_bytes": 14,
+  "objects": [
+    {
+      "name": "t_status",
+      "texts": [
+        "正常",
+        "传感器异常",
+        "连接中断"
+      ],
+      "txt_maxl": 20
+    },
+    {
+      "name": "t_version",
+      "texts": [
+        "V0.9.1",
+        "V12.34.56-beta"
+      ],
+      "txt_maxl": 24
+    }
+  ]
+}
+

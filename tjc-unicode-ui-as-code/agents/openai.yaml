@@ -1,0 +1,5 @@
+interface:
+  display_name: "TJC Unicode UI as Code"
+  short_description: "Build and validate UTF-8 TJC HMI projects safely"
+  default_prompt: "Use $tjc-unicode-ui-as-code to build or audit a Unicode TJC HMI project with reproducible binary and official-editor gates."
+
