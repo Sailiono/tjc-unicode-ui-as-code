@@ -1,4 +1,6 @@
 __pycache__/
+.DS_Store
+Thumbs.db
 *.py[cod]
 .pytest_cache/
 .coverage
@@ -7,4 +9,3 @@ dist/
 build/
 *.egg-info/
 .venv/
-
